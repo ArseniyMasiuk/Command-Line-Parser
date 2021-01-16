@@ -1,0 +1,15 @@
+*.opendb
+*.suo
+*.sdf
+*.user
+*.opensdf
+*.bak
+_bin/
+.vs
+
+**/Release
+**/Debug
+**/Debug32
+**/Debug64
+**/Release32
+**/Release64
